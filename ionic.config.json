@@ -1,5 +1,7 @@
 {
   "name": "braintree_example",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
